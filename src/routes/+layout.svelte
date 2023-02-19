@@ -34,8 +34,7 @@
 		<div class='container'>
 			<div style='display: flex;'>
 				<div>
-					<span style='color: #1273ff;'>Chronos</span>
-					<span style='color: #ffd815;'>Project</span>
+					
 				</div>
 
 				<div style='margin-left: auto;'>
