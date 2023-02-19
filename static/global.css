@@ -1,0 +1,35 @@
+*, ::after, ::before {
+	box-sizing: border-box;
+}
+
+body, html {
+	font-family: 'Inter', sans-serif;
+}
+
+body {
+	margin: 0;
+	background: #121212;
+	color: #fff;
+}
+
+.app {
+	min-height: 100vh;
+	display: grid;
+	grid-template-rows: auto 1fr auto;
+}
+
+header {
+	padding: 1rem;
+	border-bottom: 1px solid #202020;
+}
+
+footer {
+	padding: 1rem;
+	border-top: 1px solid #202020;
+}
+
+.container {
+	max-width: 960px;
+	height: 100%;
+	margin: auto;
+}
